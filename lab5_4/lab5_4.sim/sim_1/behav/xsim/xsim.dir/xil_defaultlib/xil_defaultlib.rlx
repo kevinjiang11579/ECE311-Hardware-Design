@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/student/lab5_4/lab5_4.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/student/lab5_4/lab5_4.srcs/sim_1/new/lab5_4testFile.v,1573070346,verilog,,,,lab5_4testFile,,,,,,,,
+/home/student/lab5_4/lab5_4.srcs/sources_1/new/counter.v,1573070531,verilog,,/home/student/lab5_4/lab5_4.srcs/sources_1/new/lab5_4.v,,counter,,,,,,,,
+/home/student/lab5_4/lab5_4.srcs/sources_1/new/lab5_4.v,1573070063,verilog,,/home/student/lab5_4/lab5_4.srcs/sim_1/new/lab5_4testFile.v,,dff,,,,,,,,

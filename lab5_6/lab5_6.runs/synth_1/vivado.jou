@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Nov  6 20:31:58 2019
+# Process ID: 18595
+# Current directory: /home/student/lab5_6/lab5_6.runs/synth_1
+# Command line: vivado -log multiplier.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source multiplier.tcl
+# Log file: /home/student/lab5_6/lab5_6.runs/synth_1/multiplier.vds
+# Journal file: /home/student/lab5_6/lab5_6.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source multiplier.tcl -notrace

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:47:09 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Nov  5 22:06:30 2019
+# Process ID: 12475
+# Current directory: /home/student/lab5_3/lab5_3.runs/synth_1
+# Command line: vivado -log lab5_3.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lab5_3.tcl
+# Log file: /home/student/lab5_3/lab5_3.runs/synth_1/lab5_3.vds
+# Journal file: /home/student/lab5_3/lab5_3.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source lab5_3.tcl -notrace
